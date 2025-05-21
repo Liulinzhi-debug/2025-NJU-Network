@@ -1,0 +1,1054 @@
+DEBUG: find the following interfaces:  h1-eth0.
+Routing table of 1 entries has been loaded.
+DEBUG: 0.0.0.0:10001 switch state, from CLOSED to LISTEN.
+DEBUG: listen to port 10001.
+DEBUG: waiting for incoming connection request.
+DEBUG: 10.0.0.1:10001 switch state, from CLOSED to SYN_RECV.
+ERROR: received packet with invalid seq, drop it.
+ERROR: Could not find forwarding rule for IP (dst:0.0.0.0) packet.
+DEBUG: 10.0.0.1:10001 switch state, from SYN_RECV to ESTABLISHED.
+DEBUG: accept a connection.
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 10000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 20000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 30000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 40000)
+DEBUG: write: 8760
+DEBUG: Received 8760 bytes (total: 48760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 50000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 52920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 60000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 70000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 80000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 90000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 100000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 110000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 111460)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 112920)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 114380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 120000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 130000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 140000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 150000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 160000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 170000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 180000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 190000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 200000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 210000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 220000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 230000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 240000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 250000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 254380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 260000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 270000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 280000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 290000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 300000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 304380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 310000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 312920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 320000)
+ERROR: received packet with invalid seq, drop it.
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 330000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 331460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 340000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 341460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 350000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 360000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 370000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 380000)
+DEBUG: write: 5840
+DEBUG: Received 5840 bytes (total: 385840)
+DEBUG: write: 4160
+DEBUG: Received 4160 bytes (total: 390000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 400000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 410000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 420000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 430000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 440000)
+DEBUG: write: 5840
+DEBUG: Received 5840 bytes (total: 445840)
+DEBUG: write: 4160
+DEBUG: Received 4160 bytes (total: 450000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 460000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 470000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 480000)
+DEBUG: write: 8760
+DEBUG: Received 8760 bytes (total: 488760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 490000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 500000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 510000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 520000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 524380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 530000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 540000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 550000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 560000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 570000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 580000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 590000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 600000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 610000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 620000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 621460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 630000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 632920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 640000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 650000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 660000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 670000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 680000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 690000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 700000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 710000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 720000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 721460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 730000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 740000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 750000)
+DEBUG: write: 5840
+DEBUG: Received 5840 bytes (total: 755840)
+DEBUG: write: 4160
+DEBUG: Received 4160 bytes (total: 760000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 770000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 772920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 780000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 790000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 800000)
+DEBUG: write: 8760
+DEBUG: Received 8760 bytes (total: 808760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 810000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 820000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 822920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 830000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 840000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 850000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 851460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 860000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 870000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 880000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 890000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 900000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 910000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 912920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 920000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 930000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 940000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 950000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 960000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 970000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 980000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 990000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1000000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1010000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1020000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1030000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1040000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1050000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1051460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 1060000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1070000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1071460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 1080000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1090000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1100000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1110000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1120000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1130000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1140000)
+DEBUG: write: 8760
+DEBUG: Received 8760 bytes (total: 1148760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 1150000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1151460)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1152920)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1154380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 1160000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1161460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 1170000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1180000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1190000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1200000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1210000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1220000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1230000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1240000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1241460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 1250000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1260000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1270000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1280000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1290000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1300000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 1304380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 1310000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1320000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1330000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1340000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1350000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1360000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1370000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1380000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1390000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1400000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1410000)
+DEBUG: write: 8760
+DEBUG: Received 8760 bytes (total: 1418760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 1420000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1430000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1440000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1450000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1460000)
+DEBUG: write: 5840
+DEBUG: Received 5840 bytes (total: 1465840)
+DEBUG: write: 4160
+DEBUG: Received 4160 bytes (total: 1470000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1480000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1490000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1500000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1510000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1520000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1530000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1540000)
+DEBUG: write: 8760
+DEBUG: Received 8760 bytes (total: 1548760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 1550000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1560000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1570000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 1572920)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 1575840)
+DEBUG: write: 4160
+DEBUG: Received 4160 bytes (total: 1580000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1590000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1600000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1610000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1620000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1630000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1640000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1650000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1660000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1670000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1680000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1690000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1700000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1710000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1720000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1721460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 1730000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1731460)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1732920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 1740000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1750000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1760000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1770000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 1774380)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 1778760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 1780000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1790000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1800000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1801460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 1810000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1820000)
+DEBUG: write: 5840
+DEBUG: Received 5840 bytes (total: 1825840)
+DEBUG: write: 4160
+DEBUG: Received 4160 bytes (total: 1830000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1831460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 1840000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1841460)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1842920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 1850000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1860000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1870000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1871460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 1880000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1890000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1891460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 1900000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1910000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1920000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1921460)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1922920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 1930000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1940000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1950000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1960000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1970000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1980000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1981460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 1990000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1991460)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1992920)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1994380)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1995840)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1997300)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 1998760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 2000000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2001460)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2002920)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2004380)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2005840)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2007300)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2008760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 2010000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2020000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2030000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2040000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2050000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2060000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2070000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2080000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2090000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2100000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2110000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2120000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2130000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2140000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 2142920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 2150000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 2152920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 2160000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2170000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2180000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2190000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2200000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2210000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2220000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2230000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2240000)
+DEBUG: write: 7300
+DEBUG: Received 7300 bytes (total: 2247300)
+DEBUG: write: 2700
+DEBUG: Received 2700 bytes (total: 2250000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2251460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 2260000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2270000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2280000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2290000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2300000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2310000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2320000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2330000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2340000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2350000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 2352920)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 2357300)
+DEBUG: write: 2700
+DEBUG: Received 2700 bytes (total: 2360000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2370000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2371460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 2380000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2390000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2400000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2410000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2420000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2430000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2440000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2450000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2460000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2470000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2480000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 2484380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 2490000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2500000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2510000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 2514380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 2520000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2530000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2540000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2550000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2551460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 2560000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2570000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2580000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2590000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2600000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2610000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2620000)
+DEBUG: write: 8760
+DEBUG: Received 8760 bytes (total: 2628760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 2630000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2640000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2650000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2660000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2661460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 2670000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2671460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 2680000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2690000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2700000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2710000)
+ERROR: received packet with invalid seq, drop it.
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2720000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2730000)
+DEBUG: write: 5840
+DEBUG: Received 5840 bytes (total: 2735840)
+DEBUG: write: 4160
+DEBUG: Received 4160 bytes (total: 2740000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2750000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2760000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2761460)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2762920)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2764380)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2765840)
+DEBUG: write: 4160
+DEBUG: Received 4160 bytes (total: 2770000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2771460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 2780000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 2781460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 2790000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 2792920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 2800000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2810000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2820000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2830000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 2832920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 2840000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2850000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 2854380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 2860000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2870000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2880000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2890000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2900000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2910000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2920000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2930000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2940000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2950000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2960000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2970000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2980000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2990000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3000000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3010000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3020000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 3021460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 3030000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3040000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 3041460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 3050000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3060000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3070000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3080000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3090000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3100000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3110000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 3111460)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 3114380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 3120000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3130000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3140000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3150000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 3151460)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 3154380)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 3158760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 3160000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3170000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3180000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3190000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3200000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 3202920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 3210000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3220000)
+DEBUG: write: 5840
+DEBUG: Received 5840 bytes (total: 3225840)
+DEBUG: write: 4160
+DEBUG: Received 4160 bytes (total: 3230000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3240000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3250000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3260000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 3261460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 3270000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3280000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 3281460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 3290000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3300000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3310000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 3312920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 3320000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3330000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3340000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3350000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 3354380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 3360000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3370000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 3371460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 3380000)
+DEBUG: write: 7300
+DEBUG: Received 7300 bytes (total: 3387300)
+DEBUG: write: 2700
+DEBUG: Received 2700 bytes (total: 3390000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3400000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3410000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3420000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3430000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3440000)
+DEBUG: write: 5840
+DEBUG: Received 5840 bytes (total: 3445840)
+DEBUG: write: 4160
+DEBUG: Received 4160 bytes (total: 3450000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3460000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3470000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3480000)
+DEBUG: write: 7300
+DEBUG: Received 7300 bytes (total: 3487300)
+DEBUG: write: 2700
+DEBUG: Received 2700 bytes (total: 3490000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3500000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3510000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3520000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3530000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3540000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3550000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3560000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 3564380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 3570000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3580000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3590000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3600000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3610000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3620000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3630000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3640000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3650000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3660000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3670000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3680000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3690000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3700000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3710000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3720000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3730000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3740000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3750000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3760000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3770000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3780000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3790000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3800000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3810000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3820000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3830000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3840000)
+DEBUG: write: 7300
+DEBUG: Received 7300 bytes (total: 3847300)
+DEBUG: write: 2700
+DEBUG: Received 2700 bytes (total: 3850000)
+DEBUG: write: 7300
+DEBUG: Received 7300 bytes (total: 3857300)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 3858760)
+DEBUG: write: 1240
+DEBUG: Received 1240 bytes (total: 3860000)
+DEBUG: write: 4380
+DEBUG: Received 4380 bytes (total: 3864380)
+DEBUG: write: 5620
+DEBUG: Received 5620 bytes (total: 3870000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3880000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3890000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3900000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3910000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3920000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3930000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3940000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3950000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3960000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3970000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3980000)
+DEBUG: write: 2920
+DEBUG: Received 2920 bytes (total: 3982920)
+DEBUG: write: 7080
+DEBUG: Received 7080 bytes (total: 3990000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 4000000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 4010000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 4011460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 4020000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 4030000)
+DEBUG: write: 1460
+DEBUG: Received 1460 bytes (total: 4031460)
+DEBUG: write: 8540
+DEBUG: Received 8540 bytes (total: 4040000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 4050000)
+DEBUG: 10.0.0.1:10001 switch state, from ESTABLISHED to CLOSE_WAIT.
+DEBUG: write: 2632
+DEBUG: Received 2632 bytes (total: 4052632)
+DEBUG: tcp_sock_read return 0, finish transmission.
+DEBUG: close this connection.
+DEBUG: 10.0.0.1:10001 switch state, from CLOSE_WAIT to LAST_ACK.
+DEBUG: 10.0.0.1:10001 switch state, from LAST_ACK to CLOSED.
+DEBUG: free tcp sock: [10.0.0.1:10001<->10.0.0.2:12345].

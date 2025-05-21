@@ -1,0 +1,2499 @@
+DEBUG: find the following interfaces:  h1-eth0.
+Routing table of 1 entries has been loaded.
+DEBUG: 0.0.0.0:10001 switch state, from CLOSED to LISTEN.
+DEBUG: listen to port 10001.
+DEBUG: waiting for incoming connection request.
+DEBUG: 10.0.0.1:10001 switch state, from CLOSED to SYN_RECV.
+ERROR: received packet with invalid seq, drop it.
+ERROR: Could not find forwarding rule for IP (dst:0.0.0.0) packet.
+DEBUG: 10.0.0.1:10001 switch state, from SYN_RECV to ESTABLISHED.
+DEBUG: accept a connection.
+DEBUG: write: 5000
+DEBUG: Received 5000 bytes (total: 5000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 15000)
+DEBUG: write: 720
+DEBUG: Received 720 bytes (total: 15720)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 25720)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 35720)
+DEBUG: write: 1440
+DEBUG: Received 1440 bytes (total: 37160)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 47160)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 57160)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 67160)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 77160)
+DEBUG: write: 200
+DEBUG: Received 200 bytes (total: 77360)
+DEBUG: write: 2680
+DEBUG: Received 2680 bytes (total: 80040)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 90040)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 100040)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 110040)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 120040)
+DEBUG: write: 9848
+DEBUG: Received 9848 bytes (total: 129888)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 130424)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 130960)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 131496)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 132032)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 132568)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 133104)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 133640)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 134176)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 134712)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 135248)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 135784)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 136320)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 136856)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 137392)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 137928)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 138464)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 139000)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 139536)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 140072)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 140608)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 141144)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 141680)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 142216)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 152216)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 162216)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 172216)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 182216)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 192216)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 202216)
+DEBUG: write: 4999
+DEBUG: Received 4999 bytes (total: 207215)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 207751)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 217751)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 227751)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 237751)
+DEBUG: write: 4161
+DEBUG: Received 4161 bytes (total: 241912)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 251912)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 261912)
+DEBUG: write: 4120
+DEBUG: Received 4120 bytes (total: 266032)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 267104)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 268712)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 269784)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 270320)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 271392)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 272464)
+DEBUG: write: 286
+DEBUG: Received 286 bytes (total: 272750)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 282750)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 292750)
+DEBUG: write: 8658
+DEBUG: Received 8658 bytes (total: 301408)
+DEBUG: write: 2144
+DEBUG: Received 2144 bytes (total: 303552)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 305160)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 305696)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 306768)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 316768)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 326768)
+DEBUG: write: 9480
+DEBUG: Received 9480 bytes (total: 336248)
+DEBUG: write: 1751
+DEBUG: Received 1751 bytes (total: 337999)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 347999)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 357999)
+DEBUG: write: 4656
+DEBUG: Received 4656 bytes (total: 362655)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 363727)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 364263)
+DEBUG: write: 393
+DEBUG: Received 393 bytes (total: 364656)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 366264)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 366800)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 367336)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 368408)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 368944)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 370016)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 370552)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 371624)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 372160)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 382160)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 392160)
+DEBUG: write: 3584
+DEBUG: Received 3584 bytes (total: 395744)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 397352)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 398960)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 399496)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 400568)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 401104)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 401640)
+DEBUG: write: 143
+DEBUG: Received 143 bytes (total: 401783)
+DEBUG: write: 2287
+DEBUG: Received 2287 bytes (total: 404070)
+DEBUG: write: 8040
+DEBUG: Received 8040 bytes (total: 412110)
+DEBUG: write: 5360
+DEBUG: Received 5360 bytes (total: 417470)
+DEBUG: write: 2144
+DEBUG: Received 2144 bytes (total: 419614)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 421222)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 421758)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 422294)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 423366)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 424438)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 424974)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 425510)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 426582)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 427654)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 428190)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 429262)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 429798)
+DEBUG: write: 250
+DEBUG: Received 250 bytes (total: 430048)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 430584)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 432192)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 432728)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 433264)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 434336)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 435408)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 435944)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 436480)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 437552)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 438088)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 438624)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 440232)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 441304)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 441840)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 442376)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 443448)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 444520)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 445056)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 445592)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 446128)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 446664)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 448272)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 448808)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 449344)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 449880)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 450952)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 451488)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 452024)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 452560)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 453096)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 453632)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 454168)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 454704)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 455240)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 455776)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 456312)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 456848)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 457384)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 457920)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 458456)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 458992)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 459528)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 460064)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 460600)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 461136)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 461672)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 462208)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 462744)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 463280)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 463816)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 464352)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 464888)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 465424)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 465960)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 466496)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 467032)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 477032)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 487032)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 497032)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 507032)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 517032)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 527032)
+DEBUG: write: 4463
+DEBUG: Received 4463 bytes (total: 531495)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 532031)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 542031)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 552031)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 562031)
+DEBUG: write: 4161
+DEBUG: Received 4161 bytes (total: 566192)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 576192)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 586192)
+DEBUG: write: 9480
+DEBUG: Received 9480 bytes (total: 595672)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 596208)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 606208)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 616208)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 626208)
+DEBUG: write: 4304
+DEBUG: Received 4304 bytes (total: 630512)
+DEBUG: write: 679
+DEBUG: Received 679 bytes (total: 631191)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 641191)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 651191)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 661191)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 671191)
+DEBUG: write: 9705
+DEBUG: Received 9705 bytes (total: 680896)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 681432)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 681968)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 682504)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 683040)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 683576)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 684112)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 684648)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 685184)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 685720)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 686256)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 686792)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 687328)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 687864)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 688400)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 688936)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 689472)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 690008)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 690544)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 691080)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 691616)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 692152)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 692688)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 693224)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 693760)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 694296)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 694832)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 704832)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 714832)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 724832)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 734832)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 744832)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 754832)
+DEBUG: write: 4463
+DEBUG: Received 4463 bytes (total: 759295)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 759831)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 769831)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 779831)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 789831)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 799831)
+DEBUG: write: 4881
+DEBUG: Received 4881 bytes (total: 804712)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 814712)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 824712)
+DEBUG: write: 118
+DEBUG: Received 118 bytes (total: 824830)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 825902)
+DEBUG: write: 6968
+DEBUG: Received 6968 bytes (total: 832870)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 842870)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 852870)
+DEBUG: write: 1440
+DEBUG: Received 1440 bytes (total: 854310)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 864310)
+DEBUG: write: 5401
+DEBUG: Received 5401 bytes (total: 869711)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 870247)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 880247)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 890247)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 900247)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 910247)
+DEBUG: write: 5953
+DEBUG: Received 5953 bytes (total: 916200)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 926200)
+DEBUG: write: 9046
+DEBUG: Received 9046 bytes (total: 935246)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 945246)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 955246)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 965246)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 975246)
+DEBUG: write: 3130
+DEBUG: Received 3130 bytes (total: 978376)
+DEBUG: write: 2823
+DEBUG: Received 2823 bytes (total: 981199)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 991199)
+DEBUG: write: 9689
+DEBUG: Received 9689 bytes (total: 1000888)
+DEBUG: write: 2144
+DEBUG: Received 2144 bytes (total: 1003032)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1003568)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1013568)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1023568)
+DEBUG: write: 4120
+DEBUG: Received 4120 bytes (total: 1027688)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1028760)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1038760)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1048760)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1058760)
+DEBUG: write: 3232
+DEBUG: Received 3232 bytes (total: 1061992)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1071992)
+DEBUG: write: 2864
+DEBUG: Received 2864 bytes (total: 1074856)
+DEBUG: write: 2144
+DEBUG: Received 2144 bytes (total: 1077000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1087000)
+DEBUG: write: 2864
+DEBUG: Received 2864 bytes (total: 1089864)
+DEBUG: write: 4288
+DEBUG: Received 4288 bytes (total: 1094152)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1094688)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1104688)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1114688)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1124688)
+DEBUG: write: 1088
+DEBUG: Received 1088 bytes (total: 1125776)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1135776)
+DEBUG: write: 3400
+DEBUG: Received 3400 bytes (total: 1139176)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1149176)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1159176)
+DEBUG: write: 511
+DEBUG: Received 511 bytes (total: 1159687)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1169687)
+DEBUG: write: 9296
+DEBUG: Received 9296 bytes (total: 1178983)
+DEBUG: write: 9505
+DEBUG: Received 9505 bytes (total: 1188488)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1198488)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1208488)
+DEBUG: write: 904
+DEBUG: Received 904 bytes (total: 1209392)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1209928)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1219928)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1229928)
+DEBUG: write: 3584
+DEBUG: Received 3584 bytes (total: 1233512)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1234584)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1235656)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1236192)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1237264)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1238336)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1238872)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1248872)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1258872)
+DEBUG: write: 368
+DEBUG: Received 368 bytes (total: 1259240)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1259776)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1269776)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1279776)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1289776)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1299776)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1309776)
+DEBUG: write: 384
+DEBUG: Received 384 bytes (total: 1310160)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1320160)
+DEBUG: write: 4472
+DEBUG: Received 4472 bytes (total: 1324632)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1325704)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1335704)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1345704)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1355704)
+DEBUG: write: 3232
+DEBUG: Received 3232 bytes (total: 1358936)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1368936)
+DEBUG: write: 6080
+DEBUG: Received 6080 bytes (total: 1375016)
+DEBUG: write: 3216
+DEBUG: Received 3216 bytes (total: 1378232)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1378768)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1379304)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1379840)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1380376)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1380912)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1381448)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1381984)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1382520)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1383056)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1383592)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1384128)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1384664)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1385200)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1385736)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1386272)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1386808)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1387344)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1387880)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1388416)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1388952)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1389488)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1390024)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1390560)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1391096)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1391632)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1392168)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1392704)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1393240)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1393776)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1394312)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1394848)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1395384)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1395920)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1396456)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1396992)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1397528)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1398064)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1398600)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1399136)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1399672)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1400208)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1400744)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1401280)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1401816)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1402352)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1402888)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1403424)
+DEBUG: write: 6968
+DEBUG: Received 6968 bytes (total: 1410392)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1420392)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1430392)
+DEBUG: write: 3584
+DEBUG: Received 3584 bytes (total: 1433976)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1435048)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1435584)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1436120)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1436656)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1437192)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1437728)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1438264)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1438800)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1439336)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1439872)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1440408)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1440944)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1441480)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1442016)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 1443624)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1444696)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1445232)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1445768)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1446304)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1447376)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1447912)
+DEBUG: write: 5360
+DEBUG: Received 5360 bytes (total: 1453272)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1454344)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1464344)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1474344)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1484344)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1494344)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1504344)
+DEBUG: write: 175
+DEBUG: Received 175 bytes (total: 1504519)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1505055)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1515055)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1525055)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1535055)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1545055)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1555055)
+DEBUG: write: 4345
+DEBUG: Received 4345 bytes (total: 1559400)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1559936)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1569936)
+DEBUG: write: 7688
+DEBUG: Received 7688 bytes (total: 1577624)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1578160)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1578696)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1579232)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1579768)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1580304)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1580840)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1581376)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1581912)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1582448)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1592448)
+DEBUG: write: 3400
+DEBUG: Received 3400 bytes (total: 1595848)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1596384)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1596920)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1597456)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1597992)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1598528)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1599064)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1599600)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1600136)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1600672)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1601208)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1601744)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1602280)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1602816)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1603352)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1603888)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1604424)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1604960)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1605496)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1606032)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1606568)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1607104)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1607640)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1608176)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1618176)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1628176)
+DEBUG: write: 4120
+DEBUG: Received 4120 bytes (total: 1632296)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1632832)
+DEBUG: write: 2144
+DEBUG: Received 2144 bytes (total: 1634976)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1644976)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1654976)
+DEBUG: write: 7336
+DEBUG: Received 7336 bytes (total: 1662312)
+DEBUG: write: 9648
+DEBUG: Received 9648 bytes (total: 1671960)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1672496)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1673032)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1673568)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1674104)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1674640)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1675176)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1675712)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1676248)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1676784)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1677320)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1677856)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1678392)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1678928)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1679464)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1680000)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1680536)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1681072)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1681608)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1682144)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1682680)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1683216)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1683752)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1684288)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1684824)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1685360)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1685896)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1686432)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1686968)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1687504)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1688040)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1688576)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1689112)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1689648)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1690184)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1700184)
+DEBUG: write: 8760
+DEBUG: Received 8760 bytes (total: 1708944)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1718944)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1728944)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1738944)
+DEBUG: write: 5376
+DEBUG: Received 5376 bytes (total: 1744320)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1754320)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1764320)
+DEBUG: write: 9480
+DEBUG: Received 9480 bytes (total: 1773800)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1783800)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1793800)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1803800)
+DEBUG: write: 5376
+DEBUG: Received 5376 bytes (total: 1809176)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1819176)
+DEBUG: write: 9296
+DEBUG: Received 9296 bytes (total: 1828472)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1838472)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1848472)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1858472)
+DEBUG: write: 5376
+DEBUG: Received 5376 bytes (total: 1863848)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1873848)
+DEBUG: write: 8760
+DEBUG: Received 8760 bytes (total: 1882608)
+DEBUG: write: 863
+DEBUG: Received 863 bytes (total: 1883471)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1884007)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1884543)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1885079)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1885615)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1886151)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1886687)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1887223)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1887759)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1888295)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1888831)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1889367)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1889903)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1890439)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1890975)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1891511)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1892047)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1892583)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1893119)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1893655)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1894191)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1894727)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1895263)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1895799)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1896335)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1896871)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1897407)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1897943)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1898479)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1899015)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1899551)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1900087)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1900623)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1901159)
+DEBUG: write: 209
+DEBUG: Received 209 bytes (total: 1901368)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1901904)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1902440)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1902976)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1903512)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1904048)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1904584)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1905656)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 1907264)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1908336)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1908872)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 1910480)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1911016)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1912088)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1912624)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1913160)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1914232)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1915304)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1915840)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1916912)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1917448)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1918520)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1919592)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1920128)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1920664)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1921200)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 1922272)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1932272)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1942272)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1952272)
+DEBUG: write: 16
+DEBUG: Received 16 bytes (total: 1952288)
+DEBUG: write: 9112
+DEBUG: Received 9112 bytes (total: 1961400)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1961936)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1962472)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1963008)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1963544)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1964080)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1964616)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1965152)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1965688)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1966224)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1966760)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1967296)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 1967832)
+DEBUG: write: 6968
+DEBUG: Received 6968 bytes (total: 1974800)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1984800)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 1994800)
+DEBUG: write: 368
+DEBUG: Received 368 bytes (total: 1995168)
+DEBUG: write: 5360
+DEBUG: Received 5360 bytes (total: 2000528)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2010528)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2020528)
+DEBUG: write: 8408
+DEBUG: Received 8408 bytes (total: 2028936)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2038936)
+DEBUG: write: 1256
+DEBUG: Received 1256 bytes (total: 2040192)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2040728)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2041264)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2041800)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2042336)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2042872)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2043408)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2043944)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2044480)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2045016)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2045552)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2046088)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2046624)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2047160)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2047696)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2048232)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2048768)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2049304)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2049840)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2050376)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2050912)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2051448)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2051984)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2052520)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2053056)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2053592)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2054128)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2054664)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2055200)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2055736)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2065736)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2075736)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2085736)
+DEBUG: write: 9128
+DEBUG: Received 9128 bytes (total: 2094864)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2104864)
+DEBUG: write: 5544
+DEBUG: Received 5544 bytes (total: 2110408)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2120408)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2130408)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2140408)
+DEBUG: write: 9128
+DEBUG: Received 9128 bytes (total: 2149536)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2159536)
+DEBUG: write: 5871
+DEBUG: Received 5871 bytes (total: 2165407)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2175407)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2185407)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2195407)
+DEBUG: write: 8801
+DEBUG: Received 8801 bytes (total: 2204208)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2204744)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2205280)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2205816)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2206352)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2206888)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2207424)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2207960)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2208496)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2209032)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2209568)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2210104)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2210640)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2211176)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2211712)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2212248)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2212784)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2213320)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2213856)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2214392)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2214928)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2215464)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2216000)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2216536)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2217072)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2217608)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2218144)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2218680)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2219216)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2219752)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2220288)
+DEBUG: write: 118
+DEBUG: Received 118 bytes (total: 2220406)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2220942)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2221478)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2222014)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2222550)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2223086)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2223622)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2224158)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2224694)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2225230)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2225766)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2226302)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2226838)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2227374)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2227910)
+DEBUG: write: 418
+DEBUG: Received 418 bytes (total: 2228328)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2228864)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2229400)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2229936)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2230472)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2231008)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2231544)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2232080)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2232616)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2233152)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2233688)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2234224)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2234760)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2235296)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2235832)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2236368)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2236904)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2237440)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2237976)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2238512)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2239048)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2239584)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2240120)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2240656)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2241192)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2241728)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2242264)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2242800)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2243336)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2243872)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2244408)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2244944)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2245480)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2246016)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2246552)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2247088)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2247624)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2248160)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2248696)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2249232)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2249768)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2250304)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2250840)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2251376)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2251912)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2252448)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2252984)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2253520)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2254056)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2254592)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2255128)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2255664)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2256200)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2256736)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2257272)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2257808)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2258344)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2258880)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2259416)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2259952)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2260488)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2261024)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2261560)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2262096)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2262632)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2263168)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2263704)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2264240)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2264776)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2265312)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2265848)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2266384)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2266920)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2267456)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2267992)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2268528)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2269064)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2269600)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2270136)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2270672)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2271208)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2271744)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2272280)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2272816)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2273352)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2273888)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2274424)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2274960)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2275496)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2276032)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2276568)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2277104)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2277640)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2278176)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2278712)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2279248)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2279784)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2280320)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2280856)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2281392)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2281928)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2282464)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2283000)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2283536)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2284072)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2284608)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2285144)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2285680)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2286216)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2286752)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2287288)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2287824)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2288360)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2288896)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2289432)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2289968)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2290504)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2291040)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2291576)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2292112)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2292648)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2293184)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2293720)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2294256)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2294792)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2295328)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2295864)
+DEBUG: write: 7504
+DEBUG: Received 7504 bytes (total: 2303368)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 2304976)
+DEBUG: write: 4288
+DEBUG: Received 4288 bytes (total: 2309264)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2319264)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2329264)
+DEBUG: write: 6800
+DEBUG: Received 6800 bytes (total: 2336064)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2336600)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2337136)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2337672)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2338208)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2338744)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2339280)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2339816)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2340352)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2340888)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2341424)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2341960)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2342496)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2343032)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2343568)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2344104)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2344640)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2345176)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2345712)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2346248)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2346784)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2347320)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2347856)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2348392)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2348928)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2349464)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2350000)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2350536)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2351072)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2351608)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2361608)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2371608)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2381608)
+DEBUG: write: 2696
+DEBUG: Received 2696 bytes (total: 2384304)
+DEBUG: write: 8040
+DEBUG: Received 8040 bytes (total: 2392344)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2392880)
+DEBUG: write: 8040
+DEBUG: Received 8040 bytes (total: 2400920)
+DEBUG: write: 5360
+DEBUG: Received 5360 bytes (total: 2406280)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2416280)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2426280)
+DEBUG: write: 8408
+DEBUG: Received 8408 bytes (total: 2434688)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2444688)
+DEBUG: write: 2864
+DEBUG: Received 2864 bytes (total: 2447552)
+DEBUG: write: 6968
+DEBUG: Received 6968 bytes (total: 2454520)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2455056)
+DEBUG: write: 5896
+DEBUG: Received 5896 bytes (total: 2460952)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2470952)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2480952)
+DEBUG: write: 7872
+DEBUG: Received 7872 bytes (total: 2488824)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2498824)
+DEBUG: write: 4472
+DEBUG: Received 4472 bytes (total: 2503296)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2513296)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2523296)
+DEBUG: write: 7872
+DEBUG: Received 7872 bytes (total: 2531168)
+DEBUG: write: 3752
+DEBUG: Received 3752 bytes (total: 2534920)
+DEBUG: write: 4824
+DEBUG: Received 4824 bytes (total: 2539744)
+DEBUG: write: 3216
+DEBUG: Received 3216 bytes (total: 2542960)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2543496)
+DEBUG: write: 2680
+DEBUG: Received 2680 bytes (total: 2546176)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2556176)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2566176)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2576176)
+DEBUG: write: 9128
+DEBUG: Received 9128 bytes (total: 2585304)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2595304)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2605304)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2615304)
+DEBUG: write: 5376
+DEBUG: Received 5376 bytes (total: 2620680)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2630680)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2640680)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2650680)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2660680)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2670680)
+DEBUG: write: 4999
+DEBUG: Received 4999 bytes (total: 2675679)
+ERROR: received packet with invalid seq, drop it.
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2685679)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2695679)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2705679)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2715679)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2725679)
+DEBUG: write: 4881
+DEBUG: Received 4881 bytes (total: 2730560)
+DEBUG: write: 118
+DEBUG: Received 118 bytes (total: 2730678)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2731214)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2731750)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2732286)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2732822)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2733358)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2733894)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2734430)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2734966)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2735502)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2736038)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2736574)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2737110)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2737646)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2738182)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2738718)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2739254)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2739790)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2740326)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2740862)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2741398)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2741934)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2742470)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2743006)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2743542)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2744078)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2744614)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2745150)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2745686)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2746222)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2746758)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2747294)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2747830)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2748366)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2748902)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2749438)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2749974)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2750510)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2751046)
+DEBUG: write: 418
+DEBUG: Received 418 bytes (total: 2751464)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2752000)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2752536)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2753072)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2753608)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2754144)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2754680)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2755216)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2755752)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2756288)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2756824)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2757360)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2757896)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2758432)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2758968)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2759504)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2760040)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2760576)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2761112)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2761648)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2762184)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2762720)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2763256)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2763792)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2764328)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2764864)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2765400)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2765936)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2766472)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2776472)
+DEBUG: write: 184
+DEBUG: Received 184 bytes (total: 2776656)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2786656)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2796656)
+DEBUG: write: 5728
+DEBUG: Received 5728 bytes (total: 2802384)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2802920)
+DEBUG: write: 9112
+DEBUG: Received 9112 bytes (total: 2812032)
+DEBUG: write: 9112
+DEBUG: Received 9112 bytes (total: 2821144)
+DEBUG: write: 9648
+DEBUG: Received 9648 bytes (total: 2830792)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2840792)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2850792)
+DEBUG: write: 6264
+DEBUG: Received 6264 bytes (total: 2857056)
+DEBUG: write: 9648
+DEBUG: Received 9648 bytes (total: 2866704)
+DEBUG: write: 1608
+DEBUG: Received 1608 bytes (total: 2868312)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2868848)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2878848)
+DEBUG: write: 7152
+DEBUG: Received 7152 bytes (total: 2886000)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2896000)
+DEBUG: write: 7152
+DEBUG: Received 7152 bytes (total: 2903152)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2903688)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2904224)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 2905296)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 2906368)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2906904)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2907440)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2907976)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 2909048)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 2910120)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2910656)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 2911728)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2912264)
+DEBUG: write: 1072
+DEBUG: Received 1072 bytes (total: 2913336)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2913872)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 2914408)
+DEBUG: write: 9112
+DEBUG: Received 9112 bytes (total: 2923520)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2933520)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2943520)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2953520)
+DEBUG: write: 6984
+DEBUG: Received 6984 bytes (total: 2960504)
+DEBUG: write: 8903
+DEBUG: Received 8903 bytes (total: 2969407)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2979407)
+DEBUG: write: 8433
+DEBUG: Received 8433 bytes (total: 2987840)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 2997840)
+DEBUG: write: 9296
+DEBUG: Received 9296 bytes (total: 3007136)
+DEBUG: write: 8040
+DEBUG: Received 8040 bytes (total: 3015176)
+DEBUG: write: 9230
+DEBUG: Received 9230 bytes (total: 3024406)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3034406)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3044406)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3054406)
+DEBUG: write: 434
+DEBUG: Received 434 bytes (total: 3054840)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3064840)
+DEBUG: write: 5008
+DEBUG: Received 5008 bytes (total: 3069848)
+DEBUG: write: 8576
+DEBUG: Received 8576 bytes (total: 3078424)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3088424)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3098424)
+DEBUG: write: 5728
+DEBUG: Received 5728 bytes (total: 3104152)
+DEBUG: write: 5360
+DEBUG: Received 5360 bytes (total: 3109512)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3119512)
+DEBUG: write: 3400
+DEBUG: Received 3400 bytes (total: 3122912)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3123448)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3123984)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3124520)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3125056)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3125592)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3126128)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3126664)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3127200)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3127736)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3128272)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3128808)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3129344)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3129880)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3130416)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3130952)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3131488)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3132024)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3132560)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3133096)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3133632)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3134168)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3134704)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3135240)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3135776)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3136312)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3136848)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3137384)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3137920)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3138456)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3138992)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3139528)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3140064)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3140600)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3141136)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3141672)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3142208)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3142744)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3143280)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3143816)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3144352)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3144888)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3145424)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3145960)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3146496)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3147032)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3147568)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3148104)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3148640)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3149176)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3149712)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3150248)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3150784)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3151320)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3151856)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3152392)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3152928)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3153464)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3154000)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3154536)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3155072)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3155608)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3156144)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3156680)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3157216)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3157752)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3158288)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3158824)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3159360)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3159896)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3160432)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3160968)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3161504)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3162040)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3162576)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3163112)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3163648)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3164184)
+DEBUG: write: 327
+DEBUG: Received 327 bytes (total: 3164511)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3165047)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3175047)
+DEBUG: write: 4681
+DEBUG: Received 4681 bytes (total: 3179728)
+DEBUG: write: 8576
+DEBUG: Received 8576 bytes (total: 3188304)
+DEBUG: write: 8040
+DEBUG: Received 8040 bytes (total: 3196344)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3196880)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3197416)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3197952)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3198488)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3199024)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3199560)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3200096)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3200632)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3201168)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3201704)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3202240)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3202776)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3203312)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3203848)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3204384)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3204920)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3205456)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3205992)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3206528)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3207064)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3207600)
+DEBUG: write: 2680
+DEBUG: Received 2680 bytes (total: 3210280)
+DEBUG: write: 9648
+DEBUG: Received 9648 bytes (total: 3219928)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3220464)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3230464)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3240464)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3250464)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3260464)
+DEBUG: write: 3952
+DEBUG: Received 3952 bytes (total: 3264416)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3274416)
+DEBUG: write: 1047
+DEBUG: Received 1047 bytes (total: 3275463)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3285463)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3295463)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3305463)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3315463)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3325463)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3335463)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3345463)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3355463)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3365463)
+DEBUG: write: 4545
+DEBUG: Received 4545 bytes (total: 3370008)
+DEBUG: write: 454
+DEBUG: Received 454 bytes (total: 3370462)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3380462)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3390462)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3400462)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3410462)
+DEBUG: write: 7250
+DEBUG: Received 7250 bytes (total: 3417712)
+DEBUG: write: 9112
+DEBUG: Received 9112 bytes (total: 3426824)
+DEBUG: write: 8040
+DEBUG: Received 8040 bytes (total: 3434864)
+DEBUG: write: 4288
+DEBUG: Received 4288 bytes (total: 3439152)
+DEBUG: write: 6309
+DEBUG: Received 6309 bytes (total: 3445461)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3455461)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3465461)
+DEBUG: write: 6923
+DEBUG: Received 6923 bytes (total: 3472384)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3482384)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3492384)
+DEBUG: write: 904
+DEBUG: Received 904 bytes (total: 3493288)
+DEBUG: write: 5360
+DEBUG: Received 5360 bytes (total: 3498648)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3508648)
+DEBUG: write: 9832
+DEBUG: Received 9832 bytes (total: 3518480)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3528480)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3538480)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3548480)
+DEBUG: write: 4304
+DEBUG: Received 4304 bytes (total: 3552784)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3553320)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3563320)
+DEBUG: write: 9832
+DEBUG: Received 9832 bytes (total: 3573152)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3583152)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3593152)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3603152)
+DEBUG: write: 4840
+DEBUG: Received 4840 bytes (total: 3607992)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3617992)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3627992)
+DEBUG: write: 159
+DEBUG: Received 159 bytes (total: 3628151)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3638151)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3648151)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3658151)
+DEBUG: write: 4840
+DEBUG: Received 4840 bytes (total: 3662991)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3672991)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3682991)
+DEBUG: write: 41
+DEBUG: Received 41 bytes (total: 3683032)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3693032)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3703032)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3713032)
+DEBUG: write: 4958
+DEBUG: Received 4958 bytes (total: 3717990)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3727990)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3737990)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3747990)
+DEBUG: write: 41
+DEBUG: Received 41 bytes (total: 3748031)
+DEBUG: write: 2680
+DEBUG: Received 2680 bytes (total: 3750711)
+DEBUG: write: 3752
+DEBUG: Received 3752 bytes (total: 3754463)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3764463)
+DEBUG: write: 8526
+DEBUG: Received 8526 bytes (total: 3772989)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3782989)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3792989)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3802989)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3812989)
+DEBUG: write: 6473
+DEBUG: Received 6473 bytes (total: 3819462)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3829462)
+DEBUG: write: 8526
+DEBUG: Received 8526 bytes (total: 3837988)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3847988)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3857988)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3867988)
+DEBUG: write: 6473
+DEBUG: Received 6473 bytes (total: 3874461)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3884461)
+DEBUG: write: 7152
+DEBUG: Received 7152 bytes (total: 3891613)
+DEBUG: write: 1374
+DEBUG: Received 1374 bytes (total: 3892987)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3902987)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3912987)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3922987)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3932987)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3942987)
+DEBUG: write: 5
+DEBUG: Received 5 bytes (total: 3942992)
+DEBUG: write: 3752
+DEBUG: Received 3752 bytes (total: 3946744)
+DEBUG: write: 536
+DEBUG: Received 536 bytes (total: 3947280)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3957280)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3967280)
+DEBUG: write: 368
+DEBUG: Received 368 bytes (total: 3967648)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3977648)
+DEBUG: write: 2328
+DEBUG: Received 2328 bytes (total: 3979976)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 3989976)
+DEBUG: write: 6080
+DEBUG: Received 6080 bytes (total: 3996056)
+DEBUG: write: 5896
+DEBUG: Received 5896 bytes (total: 4001952)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 4011952)
+DEBUG: write: 9296
+DEBUG: Received 9296 bytes (total: 4021248)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 4031248)
+DEBUG: write: 1792
+DEBUG: Received 1792 bytes (total: 4033040)
+DEBUG: write: 10000
+DEBUG: Received 10000 bytes (total: 4043040)
+DEBUG: write: 8015
+DEBUG: Received 8015 bytes (total: 4051055)
+DEBUG: write: 1577
+DEBUG: Received 1577 bytes (total: 4052632)
+DEBUG: 10.0.0.1:10001 switch state, from ESTABLISHED to CLOSE_WAIT.
+DEBUG: tcp_sock_read return 0, finish transmission.
+DEBUG: close this connection.
+DEBUG: 10.0.0.1:10001 switch state, from CLOSE_WAIT to LAST_ACK.
+DEBUG: 10.0.0.1:10001 switch state, from LAST_ACK to CLOSED.
+DEBUG: free tcp sock: [10.0.0.1:10001<->10.0.0.2:54164].
