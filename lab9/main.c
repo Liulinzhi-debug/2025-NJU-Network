@@ -19,15 +19,27 @@ void handle_packet(iface_info_t *rx_iface, char *packet, int len)
     u8 *src = eh->ether_shost;
     u8 *dst = eh->ether_dhost;
 
-    iface_info_t *dest_iface = lookup_port(dst);
-    if (dest_iface != NULL && dest_iface != rx_iface) {
-        iface_send_packet(dest_iface, packet, len);
-    }
-    else {
-        broadcast_packet(rx_iface, packet, len);
+    insert_mac_port(src, rx_iface);
+
+    int is_broadcast = 1;
+    for (int i = 0; i < ETH_ALEN; i++) {
+        if (dst[i] != 0xFF) { is_broadcast = 0; break; }
     }
 
-    insert_mac_port(src, rx_iface);
+    if (is_broadcast) {
+        broadcast_packet(rx_iface, packet, len);
+		free(packet);
+		return;
+    } 
+	else {
+        iface_info_t *tx_iface = lookup_port(dst);
+        if (tx_iface != NULL && tx_iface != rx_iface) {
+            iface_send_packet(tx_iface, packet, len);
+        } 
+		else {
+            broadcast_packet(rx_iface, packet, len);
+        }
+    }
 
     free(packet);
 }
